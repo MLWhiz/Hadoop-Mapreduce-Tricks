@@ -5,6 +5,6 @@ http://mlwhiz.com/blog/2015/05/09/Hadoop_Mapreduce_Streaming_Tricks_and_Techniqu
 
 To Run The Ditributed Cache Code:
 
-Go to the Comamnd Line:
+Go to the Command Line:
 
 <code>sh got_living_s.sh</code>
